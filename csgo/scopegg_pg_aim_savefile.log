@@ -1,0 +1,40 @@
+script sa<- { h0=6860,h1=0,h4=0,h2=0,h3=0,p2= { } ,p3= { } ,p1= { } } 
+script sal<-83 
+script sa<- { h0=6860,h1=0,h4=0,h2=0,h3=0,p2= { } ,p3= { } ,p1= { } } 
+script sal<-83 
+script sa<- { h0=6860,h1=6860,h4=0,h2=0,h3=0,p2= { } ,p3= { } ,p1= { } } 
+script sal<-170 
+script sa<- { h0=6860,h1=6860,h4=0,h2=0,h3=0,p2= { } ,p3= { } ,p1= { } } 
+script sal<-170 
+script sa<- { h0=9098,h1=6860,h4=0,h2=6860,h3=0,p2= { } ,p3= { } ,p1= { } } 
+script sal<-260 
+script sa<- { h0=9098,h1=6860,h4=0,h2=6860,h3=0,p2= { } ,p3= { } ,p1= { } } 
+script sal<-260 
+script sa<- { h0=9098,h1=6860,h4=0,h2=6860,h3=6075,p2= { } ,p3= { } ,p1= { } } 
+script sal<-353 
+script sa<- { h0=9098,h1=6860,h4=0,h2=6860,h3=6075,p2= { } ,p3= { } ,p1= { } } 
+script sal<-353 
+script sa<- { h0=9385,h1=9098,h4=6075,h2=6860,h3=6860,p2= { } ,p3= { } ,p1= { } } 
+script sal<-449 
+script sa<- { h0=9385,h1=9098,h4=6075,h2=6860,h3=6860,p2= { } ,p3= { } ,p1= { } } 
+script sal<-449 
+script sa<- { h0=9385,h1=9098,h4=6100,h2=6860,h3=6860,p2= { } ,p3= { } ,p1= { } } 
+script sal<-545 
+script sa<- { h0=9385,h1=9098,h4=6100,h2=6860,h3=6860,p2= { } ,p3= { } ,p1= { } } 
+script sal<-545 
+script sa<- { h0=9385,h1=9335,h4=6860,h2=9098,h3=6860,p2= { } ,p3= { } ,p1= { } } 
+script sal<-641 
+script sa<- { h0=9385,h1=9335,h4=6860,h2=9098,h3=6860,p2= { } ,p3= { } ,p1= { } } 
+script sal<-641 
+script sa<- { h0=11220,h1=9385,h4=6860,h2=9335,h3=9098,p2= { } ,p3= { } ,p1= { } } 
+script sal<-738 
+script sa<- { h0=11220,h1=9385,h4=6860,h2=9335,h3=9098,p2= { } ,p3= { } ,p1= { } } 
+script sal<-738 
+script sa<- { h0=11220,h1=10008,h4=9098,h2=9385,h3=9335,p2= { } ,p3= { } ,p1= { } } 
+script sal<-836 
+script sa<- { h0=11220,h1=10008,h4=9098,h2=9385,h3=9335,p2= { } ,p3= { } ,p1= { } } 
+script sal<-836 
+script sa<- { h0=11220,h1=10008,h4=9335,h2=9616,h3=9385,p2= { } ,p3= { } ,p1= { } } 
+script sal<-934 
+script sa<- { h0=11220,h1=10008,h4=9335,h2=9616,h3=9385,p2= { } ,p3= { } ,p1= { } } 
+script sal<-934 
